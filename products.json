@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"image": "images/phone1.jpg",
+		"name": "Xiaomi 12",
+		"price": "284.00",
+		"description": "The 6.28-inch Xiaomi 12 runs on a top-end chipset and offers decent cameras plus fast chargingbut battery life is disappointing and there's no certification for dust/water resistance.",
+		"promocode": "K203"
+	},
+	{
+		"id": 2,
+		"image": "images/phone2.jpg",
+		"name": "HTC 7 PLUS",
+		"price": "198.00",
+		"description": "The HTC Desire was the first Android phone to be released by Telstra, and we think it's the best Android phone period.",
+		"promocode": "K433"
+	},
+	{
+		"id": 3,
+		"image": "images/phone3.jpg",
+		"name": "Black Shark 4",
+		"price": "350.00",
+		"description": "Fingerprint sensor (side-mounted), NFC, fast charging, 3.5mm jack",
+		"promocode": "K012"
+	},
+	{
+		"id": 4,
+		"image": "images/phone4.jpg",
+		"name": "Samsung Galaxy A10s",
+		"price": "790.00",
+		"description": "Samsung phones are one of the most popular mobiles in Egypt and the most widespread due to the quality of their products and their durability, and today we are reviewing one of the best Samsung phones, which is the Samsung Galaxy A10s, which comes at a price of 2000 pounds and comes with a large screen",
+		"promocode": "G0127"
+	},
+	{
+		"id": 5,
+		"image": "images/phone5.jpg",
+		"name": "OPPO",
+		"price": "430.00",
+		"description": "Oppo is one of the largest companies in Egypt and the world in the field of the mobile industry and has surpassed many brands in recent years due to a group of different models presented by the company to suit the needs of all groups,",
+		"promocode": "G1233"
+	},
+	{
+		"id": 6,
+		"image": "images/phone6.jpg",
+		"name": "Huawei Y5",
+		"price": "650.00",
+		"description": "Huawei phones are among the best-selling mobiles in Egypt, and during the recent period, Huawei has made a shift in the prices of mobile phones to offer a group of the most powerful mobiles at cheap prices,",
+		"promocode": "G4478"
+	}
+]
